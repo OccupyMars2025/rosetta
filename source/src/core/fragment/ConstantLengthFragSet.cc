@@ -53,7 +53,7 @@ using namespace kinematics;
 using namespace ObjexxFCL;
 using std::endl;
 
-static basic::Tracer tr( "core.fragments.ConstantLengthFragSet" );
+static basic::Tracer tr( "core.fragment.ConstantLengthFragSet" );
 
 ConstantLengthFragSet::~ConstantLengthFragSet() = default;
 
